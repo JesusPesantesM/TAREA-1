@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: skyblue;
+}
+
+div#ofertas{
+    float: right;
+    width: 300px;
+    height: 500px;
+    background-color:rgb(21, 109, 150)
+}
+
+div#novedades{
+    width: 640px;
+    height: 200px;
+    background-color: rgb(20, 170, 170);
+}
+
+div#body{
+    margin-top: 20px;
+    width: 640px;
+    height: 580px;
+    background-color: rgb(88, 159, 230);
+}
+
+img#foto{
+    margin-top: 40px;
+}
